@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1622
     height: 929
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 116
+  controlID: 103
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 384
     height: 879
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 308
     height: 515
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -271,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 930
     height: 515
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 16}
@@ -405,14 +405,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: C:\Users\Val\Documents\GitHub\Rage-Game\Rage Game
+  m_LastProjectPath: D:\Github\Rage-Game\Rage Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 5c5a0000
     m_LastClickedID: 23132
-    m_ExpandedIDs: 000000004e5a000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000004e5a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -467,7 +467,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000b873000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1038,7 +1038,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.15985619, y: -0.6809123, z: 0.15606461, w: -0.69744563}
     speed: 2
-    m_Value: {x: 0.15985617, y: 0.6809123, z: -0.1560646, w: 0.69744563}
+    m_Value: {x: -0.15985762, y: -0.6809184, z: 0.15606602, w: -0.6974519}
   m_Size:
     m_Target: 6.101531
     speed: 2
